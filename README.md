@@ -1,1 +1,18 @@
 # Catalan-paranthesis-combinatorics
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Code for https://oeis.org/A080936
+And Simulation for counting
+-----BEGIN PGP SIGNATURE-----
+
+iQFOBAEBCAA4FiEEbjcFxLU3st94bfwNw4JWL/KCQxwFAly2VVoaHHRpbWZsb3dl
+cnNAcHJvdG9ubWFpbC5jb20ACgkQw4JWL/KCQxyXfwf+L4RUnwMuKjAs0n3JwP4n
+5t7Az+A7dkgeej2ToTqmQswZMfUKqIN1kPKxDYbH0DH52ka6YT2DEqpziPLxZaSY
+cYUFt8mqkRQxjqErikYnqYDEB4TjePMqd8JYnjI0ummhZKJglQMHUFuScgkwRMfV
+jWoZHh5NA82hRQIlveeEVG2wTErMwZZie4VLPONLV62RtSNoHGNwiRwn0jLc9+bZ
+LdO7DVDzyasaJiBAdHz91YSDGETaBfgXb7/fdAg7DJnuuOQg+NudkV0mCZgSLEsj
+2CP+OFFiRFH4mLwHZsuS4M8j22Zb87gnYtyC5oSX9RC7Q433SUsn+pe0ROGJYSCu
+yQ==
+=GzrI
+-----END PGP SIGNATURE-----
